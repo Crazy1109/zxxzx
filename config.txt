@@ -1,0 +1,6 @@
+token=NTAwMzAxMTEwNjM3MjMyMTI4.DqI1rg.vj2M_UhI2uc5P23FuheBwBlCZwY
+owner=485380710656507914
+prefix=A
+game=Type Ahelp
+stayinchannel=true
+songinstatus=true
